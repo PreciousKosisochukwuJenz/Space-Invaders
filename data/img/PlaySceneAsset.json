@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "back",
+	"frame": {"x":0,"y":2943,"w":2560,"h":1600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2560,"h":1600},
+	"sourceSize": {"w":2560,"h":1600}
+},
+{
+	"filename": "play",
+	"frame": {"x":4528,"y":0,"w":3840,"h":2160},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":3840,"h":2160},
+	"sourceSize": {"w":3840,"h":2160}
+},
+{
+	"filename": "play_bg",
+	"frame": {"x":0,"y":0,"w":4528,"h":2943},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":4528,"h":2943},
+	"sourceSize": {"w":4528,"h":2943}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "PlaySceneAsset.png",
+	"format": "RGBA8888",
+	"size": {"w":6688,"h":4543},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:97514782f27b74c167825f73ee65a3b1:81713f724bf3990741c3c0817b9cae73:9f7ebf13dd3251f527bb65fcfefa9ab8$"
+}
+}
