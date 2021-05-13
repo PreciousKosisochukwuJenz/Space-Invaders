@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "boss1",
+	"frame": {"x":960,"y":200,"w":124,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":124,"h":103},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "gameover",
+	"frame": {"x":0,"y":0,"w":960,"h":450},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":450},
+	"sourceSize": {"w":960,"h":450}
+},
+{
+	"filename": "play",
+	"frame": {"x":960,"y":0,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Background.png",
+	"format": "RGBA8888",
+	"size": {"w":1160,"h":450},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:12f12eafc211f9b92db2eefb831a032e:1a057a50db1270f563296cac8afb6688:4cb33d97ef66be20b5b17a259b174a71$"
+}
+}
